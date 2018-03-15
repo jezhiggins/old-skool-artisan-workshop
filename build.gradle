@@ -1,127 +1,122 @@
 buildscript {
-    repositories {
-      mavenLocal()
-        jcenter()
-    }
+  repositories {
+    mavenLocal()
+    jcenter()
+  }
 
-    dependencies {
-        classpath 'org.ysb33r.gradle:vfs-gradle-plugin:1.0-beta8'
-        classpath 'commons-httpclient:commons-httpclient:3.1'
-
-        // classpath 'org.asciidoctor:asciidoctor-gradle-plugin:1.5.3'
-        classpath 'org.asciidoctor:asciidoctorj-diagram:1.3.1'
-    }
+  dependencies {
+    classpath 'org.asciidoctor:asciidoctorj-diagram:1.3.1'
+  }
 }
 
 plugins {
   id 'org.asciidoctor.convert' version '1.5.3'
 }
 
-apply plugin : 'org.ysb33r.vfs'
-
 dependencies {
   asciidoctor 'org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.10.1'
 }
 
 ext {
-    audience = 'slides'
-    downloadDir = new File(buildDir,'download')
+  audience = 'slides'
+  downloadDir = new File(buildDir,'download')
 
-    revealjsVersion = '3.1.0'
-    revealjsUrl = 'https://github.com/hakimel/reveal.js'
-    revealjsTemplateVersion = 'master'
-    revealjsTemplateUrl = 'https://github.com/ysb33r/asciidoctor-reveal.js'
-    revealjsDir = new File(downloadDir,'reveal.js')
-    revealjsTemplateDir = new File('src/reveal.js/revealjs-backends/reveal.js/templates/slim')
+  revealjsVersion = '3.1.0'
+  revealjsUrl = 'https://github.com/hakimel/reveal.js'
+  revealjsTemplateVersion = 'master'
+  revealjsTemplateUrl = 'https://github.com/ysb33r/asciidoctor-reveal.js'
+  revealjsDir = new File(downloadDir,'reveal.js')
+  revealjsTemplateDir = new File('src/reveal.js/revealjs-backends/reveal.js/templates/slim')
 }
 
 version = "1.0-${audience}"
 
 asciidoctor {
-    requires 'asciidoctor-diagram'
+  requires 'asciidoctor-diagram'
 
-    sources {
-        include "${audience}.adoc"
+  sources {
+    include "${audience}.adoc"
+  }
+
+  resources {
+    from('src/docs/asciidoc') {
+      include 'images/**'
+      include 'stylesheets/**'
+      exclude 'images/diag-*.png.cache'
     }
-
-    resources {
-        from('src/docs/asciidoc') {
-            include 'images/**'
-            include 'stylesheets/**'
-            exclude 'images/diag-*.png.cache'
-        }
-        from('src/reveal.js') {
-            include 'reveal.js/**'
-        }
+    from('src/reveal.js') {
+      include 'reveal.js/**'
     }
+  }
 
-    backends 'revealjs'
+  backends 'revealjs'
 
-    options template_dirs : [ revealjsTemplateDir.absolutePath ],
-      partition : true
+  options template_dirs : [ revealjsTemplateDir.absolutePath ],
+             partition : true
 
-    attributes 'source-highlighter': 'coderay',
-      'asciidoctorj' : asciidoctorj.version,
-      'imagesoutdir' : file("${outputDir}/revealjs/images").absolutePath,
-      'imagesdir'    : 'images'
+  attributes 'source-highlighter': 'coderay',
+             'asciidoctorj' : asciidoctorj.version,
+             'imagesoutdir' : file("${outputDir}/revealjs/images").absolutePath,
+             'imagesdir'    : 'images'
 }
 
 task asciidoctorHtml( type : org.asciidoctor.gradle.AsciidoctorTask ) {
-    requires 'asciidoctor-diagram'
+  requires 'asciidoctor-diagram'
 
-    sources {
-        include "${audience}.adoc"
+  sources {
+    include "${audience}.adoc"
+  }
+
+  resources {
+    from('src/docs/asciidoc') {
+      include 'images/**'
+      include 'stylesheets/**'
+      exclude 'images/diag-*.png.cache'
     }
+  }
 
-    resources {
-        from('src/docs/asciidoc') {
-            include 'images/**'
-            include 'stylesheets/**'
-            exclude 'images/diag-*.png.cache'
-        }
-    }
+  backends 'html5'
 
-    backends 'html5'
-
-    attributes 'source-highlighter': 'coderay',
-      'asciidoctorj' : asciidoctorj.version,
-      'imagesoutdir' : file("${outputDir}/html5/images").absolutePath,
-      'imagesdir'    : 'images'
+  attributes 'source-highlighter': 'coderay',
+             'asciidoctorj' : asciidoctorj.version,
+             'imagesoutdir' : file("${outputDir}/html5/images").absolutePath,
+             'imagesdir'    : 'images'
 }
 
 task asciidoctorPdf( type : org.asciidoctor.gradle.AsciidoctorTask ) {
-    requires 'asciidoctor-diagram'
+  requires 'asciidoctor-diagram'
 
-    sources {
-        include "${audience}.adoc"
+  sources {
+    include "${audience}.adoc"
+  }
+
+  resources {
+    from('src/docs/asciidoc') {
+      include 'images/**'
+      exclude 'images/diag-*.png.cache'
     }
+  }
 
-    resources {
-        from('src/docs/asciidoc') {
-            include 'images/**'
-            exclude 'images/diag-*.png.cache'
-        }
+  doFirst {
+    copy {
+      from('src/docs/asciidoc/images') {
+        include '**'
+        // exclude 'images/diag-*.png.cache'
+      }
+      into file("${outputDir}/pdf/images")
     }
+  }
 
-    doFirst {
-        copy {
-          from('src/docs/asciidoc/images') {
-              include '**'
-              // exclude 'images/diag-*.png.cache'
-          }
-          into file("${outputDir}/pdf/images")
-        }
-    }
+  backends 'pdf'
 
-    backends 'pdf'
-
-    attributes 'source-highlighter': 'coderay',
-      'asciidoctorj' : asciidoctorj.version,
-      'imagesoutdir' : file("${outputDir}/pdf/images"),
-      'imagesdir' : file("${outputDir}/pdf/images")
-
+  attributes 'source-highlighter': 'coderay',
+             'asciidoctorj' : asciidoctorj.version,
+             'imagesoutdir' : file("${outputDir}/pdf/images"),
+             'imagesdir' : file("${outputDir}/pdf/images")
 }
 
 task asciidoctorDemo {
-   finalizedBy asciidoctorHtml, asciidoctorPdf
+  finalizedBy asciidoctorHtml, asciidoctorPdf
 }
+
+assemble.finalizedBy 'slides'

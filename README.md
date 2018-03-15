@@ -16,7 +16,7 @@ Join Chris and Jez as, armed with an Amstrad CPC 464 and a cassette recorder, th
 To build the slides,
 
 ```sh
-./gradlew asciidoctor
+./gradlew build
 ```
 
 The slides use reveal.js, and include speaker notes.  Other backends are available, but probably will come out looking awful.
