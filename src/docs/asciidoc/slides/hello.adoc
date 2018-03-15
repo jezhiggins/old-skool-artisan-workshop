@@ -1,0 +1,14 @@
+== Chris and Jez's Old Skool Artisan Software Workshop
+Chris Oldwood
+
+Jez Higgins
+
+[NOTE.speaker]
+--
+Hello everyone.
+
+I'm Jez and I am 48 and 7/8ths years old. This is Chris, and he's a mere 46 or something like that.  Whippersnapper.
+
+Between us, we have more than 50 years accumulated experience in commercial software development.  People, often to my surprise, have been paying me money to write software for over 25 years. Amazing.  
+
+--

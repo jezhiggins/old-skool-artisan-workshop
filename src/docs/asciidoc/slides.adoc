@@ -1,0 +1,8 @@
+= Chris and Jez's Old Skool Artisan Software Workshop
+
+:revealjs_center: false
+:revealjs_progress: false
+
+include::slides/hello.adoc[]
+
+:imagesdir: images
