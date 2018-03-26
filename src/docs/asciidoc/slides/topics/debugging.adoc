@@ -6,10 +6,30 @@
 Everyone knows that debugging is twice as hard as writing a program in the first place.
 ""
 
+[data-transition="none"]
 === Debugging
 
-McGuire - stepping through every line you wrote in the debugger
+[quote, Steve Maguire]
+""
+The best way to write bug-free code is actively step through all new or modified code to watch it
+execute, and to verify that every instruction does exactly what you intend it to do.
+""
 
+[NOTE.speaker]
+--
+Devotes a whole chapter to it in his 1993 book Writing Solid Code. I like Writing Solid Code a lot - it's
+the funnier friendlier companion to McConnell's Code Complete - and I took this advice on wholesale when I first
+read it.  I don't do it any more.
+
+Earlier in the chapter Maguire says "... the best way to find bugs is to execute the code and then somehow spot them,
+either by eye or by using automated tests suchs as assertions and subsystem integrity checks.  But while assertions
+and subsystem checks are valuable, they don't protect you from problems you haven't thought of in advance ..." and the
+goes into a slightly tortured analogy with home security systems.
+
+Testing!
+--
+
+[data-transition="none"]
 === Debugging
 
 [quote, Brian W. Kernighan]
@@ -37,6 +57,7 @@ This was popularised as Rubber Duck Debugging by Andy Hunt and Dave Thomas in
 The Pragmatic Programmer.
 --
 
+[data-transition="none"]
 === Debugging
 
 ++++

@@ -1,0 +1,95 @@
+[data-transition="none"]
+== Languages
+
+[quote, Edsger Dijkstra]
+""
+The use of COBOL cripples the mind;
+its teaching should, therefore, be regarded as a criminal offense.
+""
+
+[data-transition="none"]
+=== Languages
+
+[quote, David Barrett]
+""
+Don’t get me wrong: .NET on your resume isn’t an instant showstopper.
+But it will definitely raise questions during the phone screen ...
+""
+
+[NOTE.speaker]
+--
+Expensify is a thing that helps you do you expenses. Whoa.
+
+David Barrett wrote this on their corporate blog in 2011
+https://blog.expensify.com/2011/03/25/ceo-friday-why-we-dont-hire-net-programmers/
+
+David Barrett is the "founder and CEO" and is
+ - hopefully was, although looking at their website I'm not sure -
+a grade A dickhead, who exemplifies the poisonous
+"passion, passion, passion" attitude.  "See, experience is cheap.  All it takes
+is time.  Skill is harder, but really only requires hard work — a lot of people
+can get that.  But attitude.  You either have it, or you don’t.  The right sort
+of person is so passionate about coding, they can’t be stopped from doing it.
+They typically started before high school — sometimes before middle school — and
+never looked back.  They write everything from assembly to jQuery, on PCs to
+mobile phones, doing hard core computer graphics to high level social networking.
+They’ve tried everything."
+--
+
+[data-transition="none"]
+=== Languages
+
+[quote, Dijkstra again]
+""
+Goto Considered Harmful
+""
+[NOTE.speaker]
+--
+Letter published in CACM in March 1968.  How many people here are familiar with the
+title but haven't read the letter.  Me!
+--
+
+[data-transition="none"]
+=== Languages
+
+[quote, Frank Rubin]
+""
+'GOTO Considered Harmful' Considered Harmful
+""
+[NOTE.speaker]
+--
+Frank Rubin published a criticism of Dijkstra's letter in the March 1987 CACM where
+it appeared under the title "'GOTO Considered Harmful' Considered Harmful".
+Not using Goto, coupled with single entry/single exit lead me to write some truely
+ugly looking code.
+
+In truth, Dijkstra's original title was "A case against the Goto statement" which is
+rather milder.  The "considered harmful" title comes from Niklaus Wirth, who was CACM
+editor at the time, and of course it plays directly to Wirth's ideas about programming.
+--
+
+[data-transition="none"]
+=== Languages
+
+[quote, Brian W. Kernighan]
+""
+Pascal was originally intended primarily as a teaching language,
+but it has been more and more often recommended as a language for
+serious programming as well, for example, for system programming
+tasks and even operating systems.
+
+Pascal, at least in its standard form, is just plain not suitable
+for serious programming.
+""
+
+[NOTE.speaker]
+--
+From Why Pascal is Not My Favourite Programming Language
+
+Article published by Kernighan in 1981, and is largely based on his experience
+rewriting his 1976 book, Software Tools, co-authored with PJ Plauger, in Pascal.
+(The original book was written using Ratfor - a preprocessor for Fortran, which among
+other things replaced Goto with other control structures).
+
+Why did Kernighan and Plauger choose Pascal.  Portability!
+--

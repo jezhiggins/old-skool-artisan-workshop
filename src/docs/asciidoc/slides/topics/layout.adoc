@@ -4,10 +4,12 @@
 
 image::mined-out.gif[Mined Out]
 
+[data-transition="none"]
 === Layout
 
-image::flowchart.png
+image::flowchart.png[]
 
+[data-transition="none"]
 === Layout
 
 image::haduken.jpg[The power of Lisp]
@@ -15,10 +17,12 @@ image::haduken.jpg[The power of Lisp]
 [<a href='https://twitter.com/hmemcpy/status/897528863680602113/'>Source</a>]
 ++++
 
+[data-transition="none"]
 === Layout
 
 image::webstorm.png[Project Tree]
 
+[data-transition="none"]
 === Layout
 
 image::rillet.png[Some JavaScript from a distance]
