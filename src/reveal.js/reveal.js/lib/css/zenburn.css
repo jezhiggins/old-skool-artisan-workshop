@@ -5,6 +5,11 @@ based on dark.css by Ivan Sagalaev
 
 */
 
+twitterwidget {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .hljs {
   display: block; padding: 0.5em;
   background: #3F3F3F;
