@@ -1,0 +1,47 @@
+[data-transition="none"]
+== Debugging
+
+[quote, Brian W. Kernighan]
+""
+Everyone knows that debugging is twice as hard as writing a program in the first place.
+""
+
+=== Debugging
+
+McGuire - stepping through every line you wrote in the debugger
+
+=== Debugging
+
+[quote, Brian W. Kernighan]
+""
+Another effective technique is to explain your code to someone else. This
+will often cause you to explain the bug to yourself. Sometimes it takes no
+more than a few sentences, followed by an embarrassed "Never mind, I see
+what's wrong. Sorry to bother you." ... One university computer center kept a teddy
+bear near the help desk. Students [had to explain]
+ to the bear before they could speak to a human.
+""
+
+[NOTE.speaker]
+--
+"Another effective technique is to explain your code to someone else. This
+will often cause you to explain the bug to yourself. Sometimes it takes no
+more than a few sentences, followed by an embarrassed "Never mind, I see
+what's wrong. Sorry to bother you." This works remarkably well; you can
+even use non-programmers as listeners. One university computer center kept
+a teddy bear near the help desk. Students with mysterious bugs were
+required to explain them to the bear before they could speak to a human
+counselor."
+
+This was popularised as Rubber Duck Debugging by Andy Hunt and Dave Thomas in
+The Pragmatic Programmer.
+--
+
+=== Debugging
+
+++++
+<blockquote class="twitter-tweet" data-lang="en" width="325"><p lang="en" dir="ltr">For nearly
+25 years now, Jean-Luc has always been there when I&#39;ve needed him.
+<a href="http://t.co/qvd3ZC4fgT">pic.twitter.com/qvd3ZC4fgT</a></p>&mdash;
+Jez Higgins (@jezhiggins) <a href="https://twitter.com/jezhiggins/status/489736451861794816?ref_src=twsrc%5Etfw">July 17, 2014</a></blockquote>
+++++

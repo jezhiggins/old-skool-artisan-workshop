@@ -1,6 +1,16 @@
 [data-transition="none"]
 == Types
 
+```
+s$ = CHR$((CODE s$)-32)
+```
+
+```
+total += (int)length;
+```
+
+=== Types
+
 image::ariane-exposion.jpg[Ariane 501 go boom]
 
 [data-transition="none"]
@@ -8,3 +18,8 @@ image::ariane-exposion.jpg[Ariane 501 go boom]
 
 * Numbers
 * Strings
+
+[NOTE.speaker]
+--
+BASIC only has two types - strings, numbers
+--

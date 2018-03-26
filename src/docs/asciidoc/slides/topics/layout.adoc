@@ -1,14 +1,19 @@
 [data-transition="none"]
 == Layout
 
+
+image::mined-out.gif[Mined Out]
+
+=== Layout
+
+image::flowchart.png
+
+=== Layout
+
 image::haduken.jpg[The power of Lisp]
 ++++
 [<a href='https://twitter.com/hmemcpy/status/897528863680602113/'>Source</a>]
 ++++
-
-=== Layout
-
-image::mined-out.gif[Mined Out]
 
 === Layout
 
