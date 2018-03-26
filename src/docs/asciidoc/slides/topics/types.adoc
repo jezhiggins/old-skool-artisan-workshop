@@ -1,0 +1,10 @@
+[data-transition="none"]
+== Types
+
+image::ariane-exposion.jpg[Ariane 501 go boom]
+
+[data-transition="none"]
+=== Types
+
+* Numbers
+* Strings

@@ -7,8 +7,14 @@ Jez Higgins
 --
 Hello everyone.
 
-I'm Jez and I am 48 and 7/8ths years old. This is Chris, and he's a mere 46 or something like that.  Whippersnapper.
+I'm Jez and I am 48 and 7/8ths years old. This is Chris, and he's a mere 48 and 1/12.  Whippersnapper.
 
-Between us, we have more than 50 years accumulated experience in commercial software development.  People, often to my surprise, have been paying me money to write software for over 25 years. Amazing.  
+Chris and I have known each other now for something north of 10 years - he heckled me at a talk I did for ACCU Cambridge in December 2007, and we've been mutually heckling each other ever since.  While the particulars of what I laughingly refer of to as our careers, haven't exactly run in parallel, we've talked often and at length enough to know that we have similar positions on "programming."
+
+Between us, we have more than 50 years accumulated experience in commercial software development.  People have, often to my surprise, been paying me money to write software for over 25 years. Amazing. I've been able to do all kinds of really interesting things, and so far it's been going ok.
+
+Chris?
+
+[[some spiel leading into the idea of a career retrospective]]
 
 --

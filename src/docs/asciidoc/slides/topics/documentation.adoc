@@ -1,0 +1,6 @@
+[data-transition="none"]
+== Documentation
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One day I&#39;m going to be one of those programmers who are so good they don&#39;t need to write documentation or tests because the code and architecture stands all by itself.<br><br>One day.</p>&mdash; Chris Oldwood (@chrisoldwood) <a href="https://twitter.com/chrisoldwood/status/974284876877914112?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
+++++

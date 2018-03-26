@@ -1,0 +1,6 @@
+[data-transition="none"]
+== Layout
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/KevlinHenney?ref_src=twsrc%5Etfw">@KevlinHenney</a> :) <a href="https://t.co/sTwDWEPFBa">pic.twitter.com/sTwDWEPFBa</a></p>&mdash; Igal Tabachnik (@hmemcpy) <a href="https://twitter.com/hmemcpy/status/897528863680602113?ref_src=twsrc%5Etfw">August 15, 2017</a></blockquote>
+++++
