@@ -4,5 +4,10 @@
 :revealjs_progress: false
 
 include::slides/hello.adoc[]
+include::slides/topics.adoc[]
+
+++++
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
 
 :imagesdir: images

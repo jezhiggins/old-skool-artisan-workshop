@@ -1,0 +1,68 @@
+[data-transition="none"]
+== Debugging
+
+[quote, Brian W. Kernighan]
+""
+Everyone knows that debugging is twice as hard as writing a program in the first place.
+""
+
+[data-transition="none"]
+=== Debugging
+
+[quote, Steve Maguire]
+""
+The best way to write bug-free code is actively step through all new or modified code to watch it
+execute, and to verify that every instruction does exactly what you intend it to do.
+""
+
+[NOTE.speaker]
+--
+Devotes a whole chapter to it in his 1993 book Writing Solid Code. I like Writing Solid Code a lot - it's
+the funnier friendlier companion to McConnell's Code Complete - and I took this advice on wholesale when I first
+read it.  I don't do it any more.
+
+Earlier in the chapter Maguire says "... the best way to find bugs is to execute the code and then somehow spot them,
+either by eye or by using automated tests suchs as assertions and subsystem integrity checks.  But while assertions
+and subsystem checks are valuable, they don't protect you from problems you haven't thought of in advance ..." and the
+goes into a slightly tortured analogy with home security systems.
+
+Testing!
+--
+
+[data-transition="none"]
+=== Debugging
+
+[quote, Brian W. Kernighan]
+""
+Another effective technique is to explain your code to someone else. This
+will often cause you to explain the bug to yourself. Sometimes it takes no
+more than a few sentences, followed by an embarrassed "Never mind, I see
+what's wrong. Sorry to bother you." ... One university computer center kept a teddy
+bear near the help desk. Students [had to explain]
+ to the bear before they could speak to a human.
+""
+
+[NOTE.speaker]
+--
+"Another effective technique is to explain your code to someone else. This
+will often cause you to explain the bug to yourself. Sometimes it takes no
+more than a few sentences, followed by an embarrassed "Never mind, I see
+what's wrong. Sorry to bother you." This works remarkably well; you can
+even use non-programmers as listeners. One university computer center kept
+a teddy bear near the help desk. Students with mysterious bugs were
+required to explain them to the bear before they could speak to a human
+counselor."
+
+This was popularised as Rubber Duck Debugging by Andy Hunt and Dave Thomas in
+The Pragmatic Programmer.
+--
+
+[data-transition="none"]
+=== Debugging
+
+++++
+<blockquote class="twitter-tweet" data-lang="en" width="325"><p lang="en" dir="ltr">For nearly
+25 years now, Jean-Luc has always been there when I&#39;ve needed him.
+<a href="http://t.co/qvd3ZC4fgT">pic.twitter.com/qvd3ZC4fgT</a></p>&mdash;
+Jez Higgins (@jezhiggins) <a href="https://twitter.com/jezhiggins/status/489736451861794816?ref_src=twsrc%5Etfw">July 17, 2014</a></blockquote>
+++++

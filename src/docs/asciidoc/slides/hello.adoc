@@ -7,8 +7,42 @@ Jez Higgins
 --
 Hello everyone.
 
-I'm Jez and I am 48 and 7/8ths years old. This is Chris, and he's a mere 46 or something like that.  Whippersnapper.
+I'm Jez and I am 48 and 7/8ths years old. This is Chris, and he's a mere 48 and 1/12.  Whippersnapper.
 
-Between us, we have more than 50 years accumulated experience in commercial software development.  People, often to my surprise, have been paying me money to write software for over 25 years. Amazing.  
+Chris and I have known each other now for something north of 10 years - he heckled me at a talk I did
+for ACCU Cambridge in December 2007, and we've been mutually heckling each other ever since.  While
+the particulars of what I laughingly refer of to as our careers, haven't exactly run in parallel, we've
+talked often and at length enough to know that we have similar positions on "programming."
+
+Between us, we have more than 50 years accumulated experience in commercial software development.  People
+have, often to my surprise, been paying me money to write software for over 25 years. Amazing. I've been
+able to do all kinds of really interesting things, and so far it's been going ok.
+
+Chris?
+
+Since the end of last summer I’ve been doing some work for my local fire service - feel free to make a joke
+about fire fighting here.  It’s the first time I’ve been aware of being the oldest person in the room - and
+by quite some distance. The next oldest is Tim, who’s probably 10 years younger than me, then down through Liliana,
+Jas, Martina, to Aron, Meena, and Reece who are fresh faced young things not long out of university.  My job is
+to kind of guide, and nudge, and shepherd, and generally hang around being someone with miles on the clock. It
+would be very easy, when someone encounters a problem or asks how to do something to simply say “do this” or to
+take the keyboard and “let’s just have a look, hmmm, [DELETE DELETE DELETE TYPEY TYPEY TYPEY], ok there you go”.
+It would also be very lazy and, even, I would say unethical. Who benefits from an encounter like this? Certainly
+not them, but not me either.
+
+While we can read as many “13 ways to improve your programming (number 8 will astound you)*” listicles as well like, t
+these bland statements of authority do nothing to actually teach. They don’t improve the world.
+
+What’s a pattern?  A pattern is a solution to a problem in a context.
+
+If I don’t help my colleagues understand the context of the problem we’re looking at, and how that informs the
+suggestions that I’m making, I’d suggest I’m being actively harmful and should be ejected from the building.
+
+However, the advice I’m giving now probably isn’t the advice I’d give this time next year, and isn’t the advice
+I’d have given this time last year, or ten years ago, and it certainly isn’t the suggestions I’d make 20 years ago.
+
+With your indulgence, and we’ll try not to be too old-programmer-war-storyish, to perform a kind of joint career
+retrospective, which we'd like you to join in with too if you'd like to, then try to project that back in time to our
+14 year old selves are repeat an exercise I was given as a piece of Computer Science CSE course work.
 
 --
