@@ -9,10 +9,7 @@
 9030 REM result is now in roman$
 9040 IF target <= 0 OR target > 255 THEN LET roman$ = "ERR": RETURN 
 9050 IF matchcount = 0 THEN GOSUB 9500
-9060 LET roman$ = ""
-9070 FOR i = 1 TO target
-9080 LET roman$ = roman$ + "I"
-9090 NEXT i
+9080 LET roman$ = STRING$(target, "I")
 9100 FOR activematch = 1 TO matchcount
 9110 LET matchlen = LEN (match$(activematch))
 9120 LET slice = 1 
