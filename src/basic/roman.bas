@@ -1,4 +1,4 @@
-10 FOR target = 1 TO 50 STEP 3
+10 FOR target = 1 TO 160 STEP 7
 20 GOSUB 9000
 30 PRINT target " = " roman$
 40 NEXT target
@@ -13,33 +13,38 @@
 9070 FOR i = 1 TO target
 9080 LET roman$ = roman$ + "I"
 9090 NEXT i
-9100 LET romanlen = target
-9110 FOR activematch = 1 TO matchcount
+9100 FOR activematch = 1 TO matchcount
+9110 LET matchlen = LEN (match$(activematch))
 9120 LET slice = 1 
-9130 IF MID$(roman$, slice, matchlen(activematch)) <> match$(activematch) THEN GOTO 9180
+9130 IF MID$(roman$, slice, matchlen) <> match$(activematch) THEN GOTO 9180
 9140 LET original$ = roman$
-9150 LET roman$ = MID$(original$, 1, slice-1) + replace$(activematch) + MID$(original$, slice+matchlen(activematch))
-9160 LET romanlen = romanlen-matchlen(activematch)+replacelen(activematch)
+9150 LET roman$ = MID$(original$, 1, slice-1) + replace$(activematch) + MID$(original$, slice+matchlen)
 9170 GOTO 9130
 9180 LET slice = slice + 1
-9190 IF slice <= romanlen-matchlen(activematch)+1 THEN GOTO 9130
+9190 IF slice <= LEN (roman$) - matchlen + 1 THEN GOTO 9130
 9200 NEXT activematch 
 9210 RETURN
 9500 RESTORE 9500
-9510 READ matchcount
-9520 DIM matchlen(matchcount)
-9530 DIM match$(matchcount)
-9540 DIM replace$(matchcount)
-9550 DIM replacelen(matchcount)
-9560 FOR i = 1 TO matchcount
-9570 READ matchlen(i)
-9580 READ match$(i)
-9590 READ replacelen(i)
-9600 READ replace$(i)
-9610 NEXT i
-9620 RETURN 
-9630 DATA 4
-9640 DATA 5, "IIIII", 1, "V"
-9650 DATA 4, "IIII", 2, "IV"
-9660 DATA 2, "VV", 1, "X"
-9670 DATA 3, "VIV", 2, "IX"
+9510 LET matchcount = 0
+9520 READ a$
+9530 IF a$ = "END" GOTO 9570
+9540 LET matchcount = matchcount + 1
+9550 READ a$
+9560 GOTO 9520
+9570 RESTORE 9500
+9580 DIM match$(matchcount)
+9590 DIM replace$(matchcount)
+9600 FOR i = 1 TO matchcount
+9610 READ match$(i)
+9620 READ replace$(i)
+9630 NEXT i
+9640 RETURN
+9650 DATA "IIIII", "V"
+9660 DATA "IIII", "IV"
+9670 DATA "VV", "X"
+9680 DATA "VIV", "IX"
+9690 DATA "XXXXX", "L"
+9700 DATA "XXXX", "XL"
+9710 DATA "LL", "C"
+9720 DATA "LXL", "XC"
+9800 DATA "END"
