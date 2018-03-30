@@ -118,7 +118,6 @@
 1925 ON ERROR GOTO 1990
 1930 IF FNtext(inputtype$) THEN READ dummy$ ELSE READ dummy
 1935 REM line, looks good so let's proceed
-1940 ON ERROR GOTO 0
 1950 FOR i = 1 TO inputarity: IF FNtext(inputtype$) THEN READ dummy$ ELSE READ dummy: NEXT i
 1960 FOR i = 0 TO outputarity: IF FNtext(outputtype$) THEN READ dummy$ ELSE READ dummy: NEXT i
 1970 LET testcount = testcount + 1
