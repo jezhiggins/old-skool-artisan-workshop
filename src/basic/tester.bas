@@ -101,14 +101,13 @@
 1840 RETURN 
 
 1850 REM read test case input and expected outputs 
-1855 FOR i = 0 TO inputarity
-1860 IF FNtext(inputtype$) THEN READ arg$(i) ELSE READ arg(i)
-1865 NEXT i
-1870 FOR i = 0 TO outputarity
-1875 IF FNtext(outputtype$) THEN READ expected$(i) ELSE READ expected(i)
-1880 NEXT i
+1855 RESTORE 2000
+1860 READ dummy$, dummy$, dummy$, dummy, dummy
+1865 FOR j = 1 TO testcase
+1870 FOR i = 0 TO inputarity: IF FNtext(inputtype$) THEN READ arg$(i) ELSE READ arg(i): NEXT i
+1875 FOR i = 0 TO outputarity: IF FNtext(outputtype$) THEN READ expected$(i) ELSE READ expected(i): NEXT i
+1880 NEXT j
 1885 RETURN
-
 
 1900 REM how many test cases are there
 1905 RESTORE 2000
