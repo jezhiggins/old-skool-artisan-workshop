@@ -1,8 +1,14 @@
-
 2000 REM roman numerals test adaptor
 2010 LET target = arg(0)
 2020 GOSUB 9000
 2030 LET testresult$(0) = roman$
 2040 RETURN 
-2100 DATA "ROMAN", "TEXT", "TEXT", 1, 1
-2101 DATA 56, "LIV"
+2100 DATA "ROMAN", "INT", "TEXT", 1, 1
+2101 DATA 54, "LIV"
+2102 DATA 56, "LIV"
+2103 DATA 99, "XCIX"
+2104 DATA 100, "C"
+2105 DATA 1, "I"
+2106 DATA 257, "ERR"
+2107 DATA 128, "CXXVIII"
+2108 DATA "end-of-test"
