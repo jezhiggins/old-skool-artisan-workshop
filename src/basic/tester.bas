@@ -4,6 +4,7 @@
 40 REM 
 50 REM Load the program under test
 60 REM 
+65 CLEAR
 70 CAT
 80 INPUT "Which program to test? ", testprogram$
 90 PRINT "Loading "; testprogram$
