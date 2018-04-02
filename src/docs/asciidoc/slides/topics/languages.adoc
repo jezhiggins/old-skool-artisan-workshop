@@ -10,6 +10,40 @@ its teaching should, therefore, be regarded as a criminal offense.
 [data-transition="none"]
 === Languages
 
+```
+        LOAD    0
+LOOP    STORE   TOTAL
+        IN
+        JINEG   DONE
+        ADD     TOTAL
+        JUMP    LOOP
+
+DONE    PRINT   "The total is: "
+        LOAD    TOTAL
+        OUT
+        LINE
+        HALT
+
+        %
+        1
+        2
+        3
+        -1
+```
+
+[NOTE.speaker]
+--
+We weren't taught COBOL but we were taught CESIL - Computer Education Symbolic Instruction Language.
+CESIL was like a very simple assembly language, but also has the touch of COBOL.  Note the layout here, in the columns.  The % marks the start of the 'runtime section', where the runtime data lives.
+
+At the time, the only computer we had that could run CESIL was an RM 380-Z, and classroom times was, I understand, quite strictly rostered.  My friend Scott decided to write a CESIL interpreter in
+Spectrum BASIC as part of his course work, so I did all my CESIL course work using that.
+--
+
+[data-transition="none"]
+=== Languages
+
+>>>>>>> Stashed changes
 [quote, Dijkstra again]
 ""
 Goto Considered Harmful
