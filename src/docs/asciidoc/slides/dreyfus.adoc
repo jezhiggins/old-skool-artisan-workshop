@@ -1,5 +1,5 @@
 [data-transition="none"]
-== Skill Acquisition
+== !
 
 image::dreyfus-model.png[]
 
@@ -27,7 +27,7 @@ An expert
 
 --
 
-=== Skill acquisition
+=== !
 
     * transcends reliance on rules
     * intuitive grasp of situations based on deep tacit knowledge
@@ -57,7 +57,7 @@ That said, over the past 25 years (nearly 35 years if we reach all the way back 
 I have acquired the confidence to say ...
 --
 
-=== Skill Acquisition
+=== !
 
 [quote]
 ""
@@ -93,7 +93,8 @@ suggestions that I’m making, I’d suggest I’m being actively harmful and sh
 However, the advice I’m giving now probably isn’t the advice I’d give this time next year, and isn’t the advice
 I’d have given this time last year, or ten years ago, and it certainly isn’t the suggestions I’d make 20 years ago.
 
-With your indulgence, and we’ll try not to be too old-programmer-war-storyish, to perform a kind of joint career
-retrospective, which we'd like you to join in with too if you'd like to, then try to project that back in time to our
+With your indulgence, and we’ll try not to be too old-programmer-war-storyish, we're going to perform a kind of joint
+career retrospective, which we'd like you to join in with too if you'd like to, attempt to pick out some key things
+we've learnt.  Then we're going to try to project that back in time to our
 14 year old selves and repeat an exercise I was given as a piece of Computer Science CSE course work.
 --
