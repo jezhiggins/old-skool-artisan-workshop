@@ -1,0 +1,99 @@
+[data-transition="none"]
+== Skill Acquisition
+
+image::dreyfus-model.png[]
+
+[NOTE.speaker]
+--
+Are you all familiar with the Dreyfus Model of skill aquisition?
+
+The Dreyfus model of skill acquisition, which was first advance in 1980, is a model of how students
+acquire skills through formal instruction and practicing.  You often see it illustrated with a
+pyramid picture like this
+
+The original model proposes that a student passes through five distinct stages: novice, competence,
+proficiency, expertise, and mastery.  A novice, for instance, is characterised by "rigid adherence
+to taught rules and plans", while someone who's competent can cope with multiple activities and has
+perception of the their actions in relation to goals.  As you learn and improve, you move through
+these phases in nice linear fashion until you achieve mastery and become an expert.  And being an
+expert sounds pretty fantastic.
+
+An expert
+
+* transcends reliance on rules
+* intuitive grasp of situations based on deep tacit knowledge
+* has a vision of what is possible
+* use analytical approaches in new situations
+
+--
+
+=== Skill acquisition
+
+    * transcends reliance on rules
+    * intuitive grasp of situations based on deep tacit knowledge
+    * has a vision of what is possible
+    * use analytical approaches in new situations
+
+[NOTE.speaker]
+--
+That's pretty amazing, right.  Transcends the rules. Intuites situations.
+
+Are there any experts in this room? Are there any experts at this conference?
+
+Let's just jump back to the definition: "a model of how students acquire skills through
+formal instruction and practicing."
+
+As young kids we had had no formal instruction and while we'd written lots of code (hundreds of lines
+and I know it was hundreds because I had to number them all)
+there's practice and there's practice.  You don't get better just by doing a thing over and over.
+
+I didn't know that at the time.  Chris probably did, but I suspect he hadn't realised that applied
+generally and not just to swimming an unusually long way in an surprisingly short time.
+
+(Slightly awkwardly, there's often an associated learn - do - teach progression associated with the
+stages...)
+
+That said, over the past 25 years (nearly 35 years if we reach all the way back to my teenage self),
+I have acquired the confidence to say ...
+--
+
+=== Skill Acquisition
+
+[quote]
+""
+I am a better programmer now than I was when I was 14.
+""
+
+[NOTE.speaker]
+--
+For, of course, some value of better.
+
+Since the end of last summer I’ve been doing some work for my local fire service - feel free to make a joke
+about fire fighting here.  While I do program, a very large part of my job is to kind of guide, and nudge,
+and shepherd, and generally hang around being someone with miles on the clock.
+
+While it isn't the first time I've had that kind of job, it's the first time I've been explicitly hired to do
+that and it’s the first time I’ve been aware of being the oldest person in the room - and
+by quite some distance. The next oldest is Tim, who’s probably 10 years younger than me, then down through
+Liliana, Jas, Martina, to Aron, Meena, and Reece who are fresh faced young things not long out of university.
+
+It would be very easy, when someone encounters a problem or asks how to do something to simply say “do this” or to
+take the keyboard and “let’s just have a look, hmmm, [DELETE DELETE DELETE TYPEY TYPEY TYPEY], ok there you go”.
+It would also be very lazy and, even, I would say unethical. Who benefits from an encounter like this? Certainly
+not them, but not me either.
+
+While we can read as many “13 ways to improve your programming (number 8 will astound you)*” listicles as well like, t
+these bland statements of authority do nothing to actually teach. They don’t improve the world.
+
+What’s a pattern?  A pattern is a solution to a problem in a context.
+
+If I don’t help my colleagues understand the context of the problem we’re looking at, and how that informs the
+suggestions that I’m making, I’d suggest I’m being actively harmful and should be ejected from the building.
+
+However, the advice I’m giving now probably isn’t the advice I’d give this time next year, and isn’t the advice
+I’d have given this time last year, or ten years ago, and it certainly isn’t the suggestions I’d make 20 years ago.
+
+With your indulgence, and we’ll try not to be too old-programmer-war-storyish, to perform a kind of joint career
+retrospective, which we'd like you to join in with too if you'd like to, then try to project that back in time to our
+14 year old selves and repeat an exercise I was given as a piece of Computer Science CSE course work.
+--

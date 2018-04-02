@@ -10,6 +10,53 @@ its teaching should, therefore, be regarded as a criminal offense.
 [data-transition="none"]
 === Languages
 
+[quote, Steve Yegge]
+""
+There’s a phenomenon [at Google that I like to call the “DAG of Disdain” ... at the
+top [is] C++, which is [...] cooler than Java, which is cooler than Python, which
+is cooler than JavaScript.
+""
+
+[data-transition="slide"]
+=== Languages
+
+[quote, Steve Yegge]
+""
+Search is cooler than Ads, which is cooler than Apps, which is cooler than Tools,
+which is cooler than Frontends.
+""
+
+[data-transition="slide"]
+=== Languages
+
+[quote, Steve Yegge]
+""
+Programmers love to look down on each other.
+""
+
+[NOTE.speaker]
+--
+To be clear, Yegge is describing an attitude he disagrees with.  A fuller quote
+would be
+
+"At Google, most engineers are too snooty to do mobile or web programming.
+ “I don’t do frontend”, they proclaim with maximal snootiness. There’s a
+ phenomenon there that I like to call the “DAG of Disdain”, wherein DAG means
+ Directed Acyclic Graph, which is a bit like a flowchart. At the top of Snoot
+ Mountain sit the lofty Search engineers writing in C++, which is considered
+ cooler than Java, which is cooler than Python, which is cooler than
+ JavaScript. And Search is cooler than Ads, which is cooler than Apps, which
+ is cooler than Tools, which is cooler than Frontends. And so on. Programmers
+ love to look down on each other. And if you’re unlucky enough to be a Google
+ mobile engineer, you’re stuck scuffling around at the bottom of several
+ totem poles with everyone looking down on you."
+
+This is from "Who will steal Android from Google"
+--
+
+[data-transition="none"]
+=== Languages
+
 [quote, David Barrett]
 ""
 Don’t get me wrong: .NET on your resume isn’t an instant showstopper.
