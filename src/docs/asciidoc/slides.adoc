@@ -4,7 +4,7 @@
 :revealjs_progress: false
 
 include::slides/hello.adoc[]
-include::slides/dreyfuss.adoc[]
+include::slides/dreyfus.adoc[]
 include::slides/topics.adoc[]
 
 ++++
