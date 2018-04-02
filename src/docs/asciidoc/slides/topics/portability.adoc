@@ -23,7 +23,7 @@ than a phone!)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m sitting in a coffee shop building docker images of a blockchain application.</p>&mdash; Jez Higgins (@jezhiggins) <a href="https://twitter.com/jezhiggins/status/955521402756616192?ref_src=twsrc%5Etfw">January 22, 2018</a></blockquote>
 ++++
 
+[NOTE.speaker]
 --
 We might just have achieved the write once, run anyway dream of Java.
-
-===
+--
