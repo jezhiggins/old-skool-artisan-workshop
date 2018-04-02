@@ -6,3 +6,5 @@ include::topics/layout.adoc[]
 include::topics/types.adoc[]
 include::topics/languages.adoc[]
 include::topics/debugging.adoc[]
+include::topics/snobbery.adoc[]
+

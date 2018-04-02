@@ -3,9 +3,27 @@
 
 image::osborne-1.jpg[Osborne 1]
 
+[NOTE.speaker]
+--
+What is portability?
+
+Back in the mid-80s portability meant a computer you could carry.  Here's a groovy frood having the time
+of his life just rocking along with his 12 kilos and $2500 worth of raw computing power.  (That's over $6000
+dollars now, 12 kilos is still 12 kilos. This Mac Book Pro, $1300 and about a kilo and a half, before we even
+touch the diffence in the rest of the spec.)
+
+(Osborne Executive had no battery! Z80 @ 4Mhz (fast!), 124 kB RAM, 2 x 5 1/4 disks, ran CP/M. 7inch display - bigger
+than a phone!)
+--
+
 [data-transition="none"]
 === Portability
 
 ++++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m sitting in a coffee shop building docker images of a blockchain application.</p>&mdash; Jez Higgins (@jezhiggins) <a href="https://twitter.com/jezhiggins/status/955521402756616192?ref_src=twsrc%5Etfw">January 22, 2018</a></blockquote>
 ++++
+
+--
+We might just have achieved the write once, run anyway dream of Java.
+
+===

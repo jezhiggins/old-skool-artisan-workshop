@@ -1,0 +1,134 @@
+
+[data-transition="none"]
+=== Languages
+
+[quote, Steve Yegge]
+""
+There’s a phenomenon [at Google that I like to call the “DAG of Disdain” ... at the
+top [is] C++, which is [...] cooler than Java, which is cooler than Python, which
+is cooler than JavaScript.
+""
+
+[data-transition="slide"]
+=== Languages
+
+[quote, Steve Yegge]
+""
+Search is cooler than Ads, which is cooler than Apps, which is cooler than Tools,
+which is cooler than Frontends.
+""
+
+[data-transition="slide"]
+=== Languages
+
+[quote, Steve Yegge]
+""
+Programmers love to look down on each other.
+""
+
+[NOTE.speaker]
+--
+To be clear, Yegge is describing an attitude he disagrees with.  A fuller quote
+would be
+
+"At Google, most engineers are too snooty to do mobile or web programming.
+ “I don’t do frontend”, they proclaim with maximal snootiness. There’s a
+ phenomenon there that I like to call the “DAG of Disdain”, wherein DAG means
+ Directed Acyclic Graph, which is a bit like a flowchart. At the top of Snoot
+ Mountain sit the lofty Search engineers writing in C++, which is considered
+ cooler than Java, which is cooler than Python, which is cooler than
+ JavaScript. And Search is cooler than Ads, which is cooler than Apps, which
+ is cooler than Tools, which is cooler than Frontends. And so on. Programmers
+ love to look down on each other. And if you’re unlucky enough to be a Google
+ mobile engineer, you’re stuck scuffling around at the bottom of several
+ totem poles with everyone looking down on you."
+
+This is from "Who will steal Android from Google"
+--
+
+[data-transition="none"]
+=== Languages
+
+[quote, David Barrett]
+""
+Don’t get me wrong: .NET on your resume isn’t an instant showstopper.
+But it will definitely raise questions during the phone screen ...
+""
+
+[NOTE.speaker]
+--
+Expensify is a thing that helps you do you expenses. Whoa.
+
+David Barrett wrote this on their corporate blog in 2011
+https://blog.expensify.com/2011/03/25/ceo-friday-why-we-dont-hire-net-programmers/
+
+David Barrett is the "founder and CEO" and is
+ - hopefully was, although looking at their website I'm not sure -
+a grade A dickhead. "See, experience is cheap.  All it takes
+is time.  Skill is harder, but really only requires hard work — a lot of people
+can get that.  But attitude.  You either have it, or you don’t.  The right sort
+of person is so passionate about coding, they can’t be stopped from doing it.
+They typically started before high school — sometimes before middle school — and
+never looked back.  They write everything from assembly to jQuery, on PCs to
+mobile phones, doing hard core computer graphics to high level social networking.
+They’ve tried everything."
+
+This is poisonous stuff for all kinds of reasons.  It is no surprise to me that he's
+more or less the same age as us.  He's been "programming since age 6", so he's come
+right from the same home computer boom as we did.  What he utter fails to recognize
+is the remarkable priviledge of that. Yes, computing in the home was suddenly
+affordable, but it wasn't cheap.
+
+The ZX Spectrum 48k model that I had as a kid cost £175 at launch.  That's around £400 now,
+which is about the price of low-end laptop. It's affordable, but it's not cheap.  Digital
+exclusion didn't exist in the 80s in the way we think about it now, but we can draw a line
+from there to the present day through guys like Barrett, Silicon Valley tech-bros, gamergate,
+and all the rest of those self-satisfied tossbags.
+
+You can't start programming as a child if you haven't got a computer in the house.
+Similarly, the idea that you can only carry a passion for something if you started as a
+child or that you can't be stopped from doing it all the time is just so much utter
+nonsense.
+--
+
+=== !
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">bus driver: how many busses do you keep at home? what&#39;s your favorite bus? how many mass-transit related companies have you started?</p>&mdash; dan hon (@hondanhon) <a href="https://twitter.com/hondanhon/status/974114384468307968?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
+++++
+
+[NOTE.speaker]
+--
+Because passion wins.
+
+"Attitude, you either have it or you don't"
+
+I use to think like this.  I don't think I'd have put it this way, but I carried bias with me.
+
+While I did all this up-all-night code-cranking as a kid, I trained to be an electronic engineer at college
+- I didn't do A levels, I did a BTEC ONC and first-part HNC - these were vocational rather than academic courses.
+I remember one of my lecturers in a lab once saying you could do the whole of an Electronic A Level without knowing
+one end of a soldering iron from the other.  "You'd learn pretty quick, mind".  I then went on to do an
+Electronic Engineering degree.  (As another example of the "practical" nature of college, our course leader said,
+as a kind of by the way "if any of you were interested in going to university, you can pick up an UCAS form from me".
+That was it.)
+
+Anyway, I did four years straight at Hull University (our course is four years because there's too much to fit into
+three), and ended up with as a Research Assistant in Colin Pillinger's lab - then called the Planetary Science Unit -
+at The Open University in Milton Keynes.  My job was, basically, to maintain all the electronics they had and build
+any new pieces of kit they needed.  "all the electronics" meant a number of mass spectrometers, some bought, some built,
+and "any new pieces of kit" meant another mass spectrometer.  When I left, just shy of three years later, I discovered
+that my electronics skills, that I'd spent six years acquiring, consisted, as far as anyone else was concerned, of
+very simple switches and extremely high-gain (10 to the 11, 10 to the 12) low noise amps.  There is a limited
+market for that combination which was, perhaps unsurprizingly, filled entirely by past holders of my job.
+
+However, the software I'd written to control the hardware I'd built, well, people were interested in that.  So I had
+something of a "what have I been doing with my life" crisis and went and got, slightly reluctantly, a software job.
+
+And that's were my snobbery - my bias - first arose, I think.  I'd trained as an engineer.
+I knew how to record things in a workbook so I could refer to them later. I made plans.  I drew diagrams.
+I had engineering discipline. I would call myself "a software engineer" and actually mean it.  I wasn't "a programmer"
+just "writing code", I was crafting "engineering solutions".
+
+What a prick I was.
+--
