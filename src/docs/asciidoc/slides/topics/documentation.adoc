@@ -4,3 +4,21 @@
 ++++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One day I&#39;m going to be one of those programmers who are so good they don&#39;t need to write documentation or tests because the code and architecture stands all by itself.<br><br>One day.</p>&mdash; Chris Oldwood (@chrisoldwood) <a href="https://twitter.com/chrisoldwood/status/974284876877914112?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
 ++++
+
+[NOTE.speaker]
+--
+There's documentation of the code, and there's documentation in the code.  The two are not the same.
+--
+
+=== Documentation
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When people say &quot;comments are bad&quot; they mean &quot;don&#39;t put information in comments if you can make it evident from the code&quot;. This is correct.<br><br>When they say &quot;comments are good&quot; they mean &quot;take the higher-level thoughts you couldn&#39;t, and write those down too&quot;. This is also correct.</p>&mdash; Σ:3 (@glaebhoerl) <a href="https://twitter.com/glaebhoerl/status/980158594338435072?ref_src=twsrc%5Etfw">March 31, 2018</a></blockquote>
+++++
+
+=== Documentation
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Three stages of memory loss for a system:<br><br>1. &quot;When can we remove this hack?&quot;<br>2. &quot;Does anyone know why we do this?&quot;<br>3. &quot;Nobody knows why we do this, so I&#39;m afraid to change it.&quot;</p>&mdash; Michael Nygard (@mtnygard) <a href="https://twitter.com/mtnygard/status/980968099728982016?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++

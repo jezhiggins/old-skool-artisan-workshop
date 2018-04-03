@@ -11,10 +11,10 @@ The Dreyfus model of skill acquisition, which was first advance in 1980, is a mo
 acquire skills through formal instruction and practicing.  You often see it illustrated with a
 pyramid picture like this
 
-The original model proposes that a student passes through five distinct stages: novice, competence,
-proficiency, expertise, and mastery.  A novice, for instance, is characterised by "rigid adherence
+The original model proposes that a student passes through five distinct stages: novice, advanced beginner, competent,
+proficient, expert.  A novice, for instance, is characterised by "rigid adherence
 to taught rules and plans", while someone who's competent can cope with multiple activities and has
-perception of the their actions in relation to goals.  As you learn and improve, you move through
+perception of their actions in relation to goals.  As you learn and improve, you move through
 these phases in nice linear fashion until you achieve mastery and become an expert.  And being an
 expert sounds pretty fantastic.
 
@@ -27,7 +27,7 @@ An expert
 
 --
 
-=== !
+=== An Expert
 
     * transcends reliance on rules
     * intuitive grasp of situations based on deep tacit knowledge
@@ -97,4 +97,10 @@ With your indulgence, and we’ll try not to be too old-programmer-war-storyish,
 career retrospective, which we'd like you to join in with too if you'd like to, attempt to pick out some key things
 we've learnt.  Then we're going to try to project that back in time to our
 14 year old selves and repeat an exercise I was given as a piece of Computer Science CSE course work.
+
+We've got a few topics we want to talk about, but feel free to join in - we can zip around the slides or even just
+freestyle it or whatever. Absolutely don't keep your questions until the end.  We've kinda-sorta split them into two
+broad categories, practice and theory.
+
+Ready?  Here goes!
 --

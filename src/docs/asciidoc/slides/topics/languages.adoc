@@ -42,7 +42,6 @@ Spectrum BASIC as part of his course work, so I did all my CESIL course work usi
 
 [data-transition="none"]
 === Languages
-
 >>>>>>> Stashed changes
 [quote, Dijkstra again]
 ""

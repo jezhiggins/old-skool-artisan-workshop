@@ -1,6 +1,6 @@
 
 [data-transition="none"]
-=== Languages
+=== Snobbery
 
 [quote, Steve Yegge]
 ""
@@ -10,7 +10,7 @@ is cooler than JavaScript.
 ""
 
 [data-transition="slide"]
-=== Languages
+=== Snobbery
 
 [quote, Steve Yegge]
 ""
@@ -19,7 +19,7 @@ which is cooler than Frontends.
 ""
 
 [data-transition="slide"]
-=== Languages
+=== Snobbery
 
 [quote, Steve Yegge]
 ""
@@ -47,7 +47,7 @@ This is from "Who will steal Android from Google"
 --
 
 [data-transition="none"]
-=== Languages
+=== Snobbery
 
 [quote, David Barrett]
 ""
@@ -99,9 +99,17 @@ nonsense.
 
 [NOTE.speaker]
 --
-Because passion wins.
+Because passion wins.  This tweet here is one of a series in which Dan imagines what interviewing would be like
+if other professions interviewed like some of the worst parts of the tech industry.  So we've got this bus driver
+here,
 
-"Attitude, you either have it or you don't"
+"retail: how many cookies did you sell when you were a girl scout? do you spend your free time thinking about how to improve the retail experience? how old were you when you got your first toy cash register? do you still have a lemonade stand?"
+"doctor, again: how many drugs have you designed in your spare time? what clinical trials are you running from your home? are there any medical devices you've patented outside of work recently? roughly how many people do you perform medicine on outside of work each month?"
+"coal miner: you just can't stop digging stuff up. you love digging stuff up. what else have you dug up? bodies? pipes? tell us how you'd do large-scale resource extraction in (starts stopwatch) thirty seconds."
+
+Ridiculous, right?
+
+Barrett - "Attitude, you either have it or you don't"
 
 I use to think like this.  I don't think I'd have put it this way, but I carried bias with me.
 
@@ -128,7 +136,28 @@ something of a "what have I been doing with my life" crisis and went and got, sl
 And that's were my snobbery - my bias - first arose, I think.  I'd trained as an engineer.
 I knew how to record things in a workbook so I could refer to them later. I made plans.  I drew diagrams.
 I had engineering discipline. I would call myself "a software engineer" and actually mean it.  I wasn't "a programmer"
-just "writing code", I was crafting "engineering solutions".
+just "writing code", I was crafting "engineering solutions".  After the OU, I went to a tiny little database company,
+and then when that was closed (or sold, depending on whether you got the sack or not!) I ended up working for
+a outfit outside Cambridge.  They're programming staff was almost entirely composed of Cambridge and Oxford graduates.
+I think there was only one permanent staff member who wasn't Oxbridge.  Some of them were great, but some of them were,
+well, just kind of ok.  Now, I have a slightly tricky relationship with Cambridge University, for a few reasons,
+and that just fed into my feelings of "I'm an engineer, you're all lardy-de-dah".
+
+This would manifest itself generally in complaining about other people, trying to avoid working with them, things
+like that.  I had this idea that, particularly because I was a contractor, I had to be the best programmer in the room.
+I had to show I was worth the money, not only was I worth it I was worthy of it.
 
 What a prick I was.
+
+I don't know quite when I realised this, or how I changed - at least I hope I've changed.  At the very least
+I try to be aware that my background, my experience, are not normal - not available to everyone - that I've been
+extraordinarily lucky, and that because I'm a tall white heterosexual man (among many other things) I get given
+far more license than many.  I'm no longer trying to be the programmer in the room.  Software development isn't
+a pissing match.  It's no good me swanning around being all amazing, if other people can't deliver.
+Software development is about the software that we all are writting.  We're all in it.  People don't,
+I now realise, do a bad job on purpose.  People want to do good work.  So I try to be helpful.  If I can help
+other people do better work, then we all benefit.  If she does good work, that doesn't make me look bad, it makes
+all of us look good.  Because we have done good work.
+
+Check your privilege.  I've realised, probably too slowly, that I need to.  Most of us here should do that.     
 --
