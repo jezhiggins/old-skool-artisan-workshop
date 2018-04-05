@@ -145,19 +145,33 @@ and that just fed into my feelings of "I'm an engineer, you're all lardy-de-dah"
 
 This would manifest itself generally in complaining about other people, trying to avoid working with them, things
 like that.  I had this idea that, particularly because I was a contractor, I had to be the best programmer in the room.
-I had to show I was worth the money, not only was I worth it I was worthy of it.
+I had to show I was worth the money, not only was I worth it I was worthy of it.  Some while later, I ended up working
+on a big project out in Germany.  Big project, maybe 120 people altogether.  My group was maybe 25 or so, of which
+half a dozen where contractors like me flying in on weekly basis.  I said, several times, they could sack the rest of
+them and the six of us could do the work, and the work would be better, and we'd probably do it quicker.
 
 What a prick I was.
 
-I don't know quite when I realised this, or how I changed - at least I hope I've changed.  At the very least
-I try to be aware that my background, my experience, are not normal - not available to everyone - that I've been
+I don't know quite when I realised that.  I didn't have any kind of Damascene moment when the scales fell from my
+eyes. I wasn't aware at the time that my attitudes were changing, and it's only in retrospect that I can see that
+they have, or at least that I hope they have.  It may even have started during that job in Germany, amongst those
+people of whom I was so dismissive.  One of the reasons many of them weren't very good programmers is that they
+worked for an organisation that didn't value programming.  You went in as a programmer and, if you showed any kind
+of nouse, you got promoted out of it.  They had code standard that said "the code should be written so that I can
+be understood by someone with one year's experience".  At the same time, Kent Beck, Ward Cunningham, and co were
+starting to outline the ideas that they later called Extreme Programming.  I was reading the C2 wiki as they
+were doing this, and it sparked something in me.  The code was important and if you got the code as good as you good,
+then the software was better and the people writing it had a better time.  Maybe that was the start of my change
+in attitude.  Maybe I just grew up a bit.  Who knows.
+
+At the very least I try to be aware that my background, my experience, are not normal - not available to everyone - that I've been
 extraordinarily lucky, and that because I'm a tall white heterosexual man (among many other things) I get given
-far more license than many.  I'm no longer trying to be the programmer in the room.  Software development isn't
-a pissing match.  It's no good me swanning around being all amazing, if other people can't deliver.
-Software development is about the software that we all are writting.  We're all in it.  People don't,
+far more license than many.  I'm no longer trying to be the best programmer in the room.  Software development isn't
+a pissing match.  It's no good me swanning around being all amazing, all by myself, going look at me, look at me.
+Software development is about the software that we all are writing.  We're all in it.  People don't,
 I now realise, do a bad job on purpose.  People want to do good work.  So I try to be helpful.  If I can help
 other people do better work, then we all benefit.  If she does good work, that doesn't make me look bad, it makes
-all of us look good.  Because we have done good work.
+all of us look good.  Because we have all done good work.
 
-Check your privilege.  I've realised, probably too slowly, that I need to.  Most of us here should do that.     
+Check your privilege.  I've realised, probably too slowly, that I need to.  Most of us here should do that.
 --
