@@ -7,6 +7,7 @@ include::slides/hello.adoc[]
 include::slides/dreyfus.adoc[]
 include::slides/practice.adoc[]
 include::slides/theory.adoc[]
+include::slides/summary.adoc[]
 
 ++++
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
