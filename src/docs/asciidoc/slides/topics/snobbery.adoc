@@ -164,6 +164,10 @@ were doing this, and it sparked something in me.  The code was important and if 
 then the software was better and the people writing it had a better time.  Maybe that was the start of my change
 in attitude.  Maybe I just grew up a bit.  Who knows.
 
+The stupid thing is I should have known this from the start.  I was a scout leader the whole time I was at college
+and university. I know that kindness and generosity and understanding were the keys to a functioning patrol, and
+to a happy troop, but I failed to generalised that, at least for several years, to my working life.
+
 At the very least I try to be aware that my background, my experience, are not normal - not available to everyone - that I've been
 extraordinarily lucky, and that because I'm a tall white heterosexual man (among many other things) I get given
 far more license than many.  I'm no longer trying to be the best programmer in the room.  Software development isn't
