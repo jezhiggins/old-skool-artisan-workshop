@@ -1,5 +1,6 @@
+== THEORY
 
 include::topics/types.adoc[]
 include::topics/algorithms.adoc[]
 include::topics/languages.adoc[]
-
+include::topics/snobbery.adoc[]

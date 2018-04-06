@@ -1,8 +1,8 @@
+== PRACTICE
+
 include::topics/debugging.adoc[]
 include::topics/documentation.adoc[]
 include::topics/portability.adoc[]
 include::topics/tools.adoc[]
 include::topics/layout.adoc[]
-include::topics/languages.adoc[]
-include::topics/snobbery.adoc[]
 
