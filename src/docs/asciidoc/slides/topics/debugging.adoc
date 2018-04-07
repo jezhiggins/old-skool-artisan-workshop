@@ -6,6 +6,13 @@
 Everyone knows that debugging is twice as hard as writing a program in the first place.
 ""
 
+[NOTE.speaker]
+--
+I used to live in the debugger.  Write some code, compile it, run it, debug it.  Write some more code,
+compile it, run it, debug it.  That was just the natural order of things - for me, debugging didn't seem to be a
+separate activity, it was part of the process of making working software.
+--
+
 [data-transition="none"]
 === Debugging
 
@@ -17,16 +24,23 @@ execute, and to verify that every instruction does exactly what you intend it to
 
 [NOTE.speaker]
 --
-Devotes a whole chapter to it in his 1993 book Writing Solid Code. I like Writing Solid Code a lot - it's
-the funnier friendlier companion to McConnell's Code Complete - and I took this advice on wholesale when I first
-read it.  I don't do it any more.
+This is from Writing Solid Code, published in 1993.  I read it towards the end of 1996, while I was working at a
+place called Taylor Hobson in Leicester.  Build times were long, so I spent the time reading and I read a lot!
 
-Earlier in the chapter Maguire says "... the best way to find bugs is to execute the code and then somehow spot them,
-either by eye or by using automated tests suchs as assertions and subsystem integrity checks.  But while assertions
-and subsystem checks are valuable, they don't protect you from problems you haven't thought of in advance ..." and the
-goes into a slightly tortured analogy with home security systems.
+I like Writing Solid Code a lot - it's the funnier friendlier companion to McConnell's Code Complete, which I
+read at the same time- and I took this particular bit of advice on wholesale when I first read it.  And you know what,
+it did make a difference.  I found bugs more quickly, so I became more productive as a result. I gave myself a bit of
+a pat on the back - I was learning.
 
-Testing!
+Maguire devotes a whole chapter of Writing Solid Code to debugging, and at the very start of that chapter he says
+"... the best way to find bugs is to execute the code and then somehow spot them, either by eye or by using automated
+tests such as as assertions and subsystem integrity checks.  But while assertions and subsystem checks are valuable,
+they don't protect you from problems you haven't thought of in advance ..." and the goes into a slightly tortured
+analogy with home security systems.
+
+He was so close! It was right there in front of our faces. Maguire was a bit fan of runtime assertions - the subject of
+the 2nd chapter of his WSC - particularly for parameter checking on module boundaries. But really he's all about runtime
+detection of errors, rather than development time prevention of errors.
 --
 
 [data-transition="none"]
@@ -55,6 +69,25 @@ counselor."
 
 This was popularised as Rubber Duck Debugging by Andy Hunt and Dave Thomas in
 The Pragmatic Programmer.
+
+This was why I was becoming more productive.  As I stepped through the code I was explaining it to myself.
+
+I no longer step through all the code I write.  In fact I spend far, far less time in the debugger that I ever did,
+and I feel like I'm using it less and less as time goes on. That's not to say I don't use a debugger any more - I'm
+good at debugging!  If you've got a tricky bug, I will find it.
+
+But I use it much less frequently that I used to.  That's because I write fewer bugs, because I write the code
+differently in the first place.  Instead of writing a function that's a screenful, then maybe another screenful, then
+running it, I'll write a tiny function.  If my functions are more than maybe five lines long, then I start to feel a bit
+dirty.  More than that, nearly all the code I write now is supported by tests.
+
+Tests mean I know what I want the code to do before I write it, which is a powerful thing itself.  It means that when I
+add new code I know that I haven't accidentally broken the existing code.  It means that if I take code out, I know what
+I'm removing is good to go.
+
+Not every function has a suite of tests - but each chunk, each lump, each "unit" does.  Usually.  And the stuff that
+doesn't isn't as good :(
+
 --
 
 [data-transition="none"]

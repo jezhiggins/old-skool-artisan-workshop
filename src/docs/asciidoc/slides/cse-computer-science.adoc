@@ -1,0 +1,66 @@
+== 1984
+
+image::montego.jpeg[]
+
+[NOTE.speaker]
+--
+So, let's project back to 1984.  Miner's Strike. Libyan Embassy Siege.  The Austin Rover Montego!
+John Lowe's 9 dart finish.  BT privatised.  Band Aid.  Heady times, heady times.
+The GCSE is announced.
+
+We were 14 and I was doing CSE Computer Science.  In this modern age, we have GCSEs but back then there were O-levels,
+CSEs, and (at least at my school) a firm handshake and pat on the shoulder.  The CSE was assessed on an exam and on
+coursework (70% on exam, 30% course work I found out recently). I don't know the official syllabus, because I never
+actually did any lessons. (Dad was a snob.)  But I passed the exam based on what I learned from reading Your Computer
+magazine.  Binary and hex, history of computing, CPU architecture, everything.
+
+The coursework was given to me by Mr Gladwin saying things like "write an educational program", "do something in CESIL",
+and the one I remember most distinctly "work out the smallest number of notes and coins needed for an amount of money"
+--
+
+== Coin Change Kata
+
+[quote]
+""
+Produce the minimal quantity of change for a given amount
+""
+
+[NOTE.speaker]
+--
+If you Google for this, you'll find a million implementations in different languages.
+
+Truly, Mr Gladwin was ahead of his time!
+
+Let's fire up the Amstrad and write some code!
+--
+
+[data-transition="none"]
+== What would the examiners think?
+
+
+[NOTE.speaker]
+--
+It would get no marks.  Why?  Because it's written on an Amstrad, and Amstrads weren't approved
+--
+
+[data-transition="none"]
+=== What would the examiners think?
+
+image::bbcmicro.jpg[]
+
+[data-transition="none"]
+=== What would the examiners think?
+
+image::zxspectrum.jpg[]
+
+[data-transition="none"]
+=== What would the examiners think?
+
+image::380z.jpg[]
+
+[NOTE.speaker]
+--
+But if we put that aside, what would they think?  What would the 14 year old us think?
+
+Would the 14 year old us have learned anything?
+--
