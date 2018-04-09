@@ -4,6 +4,11 @@
 
 image::mined-out.gif[Mined Out]
 
+[NOTE.speaker]
+--
+http://www.playnvg.tk/#!minedout
+--
+
 [data-transition="none"]
 === Layout
 
