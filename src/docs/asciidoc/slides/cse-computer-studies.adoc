@@ -8,9 +8,9 @@ So, let's project back to 1984.  Miner's Strike. Libyan Embassy Siege.  The Aust
 John Lowe's 9 dart finish.  BT privatised.  Band Aid.  Heady times, heady times.
 The GCSE is announced.
 
-We were 14 and I was doing CSE Computer Science.  In this modern age, we have GCSEs but back then there were O-levels,
+We were 14 and I was doing CSE Computer Studies.  In this modern age, we have GCSEs but back then there were O-levels,
 CSEs, and (at least at my school) a firm handshake and pat on the shoulder.  The CSE was assessed on an exam and on
-coursework (70% on exam, 30% course work I found out recently). I don't know the official syllabus, because I never
+coursework (60% on exam, 40% course work I found out recently). I don't know the official syllabus, because I never
 actually did any lessons. (Dad was a snob.)  But I passed the exam based on what I learned from reading Your Computer
 magazine.  Binary and hex, history of computing, CPU architecture, everything.
 
