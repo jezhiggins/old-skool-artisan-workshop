@@ -16,6 +16,7 @@ died in the ensuing blaze.)
 Anyway ...
 --
 
+[data-transition="none"]
 ### To Summarise
 
 [quote, Kernighan and Pike]
@@ -49,6 +50,7 @@ Programming is a many faceted thing and, as our discussion has probably shown, t
 facets all play into together to form the whole.
 --
 
+[data-transition="none"]
 ### To Summarise
 
 [quote, Ted Nelson]

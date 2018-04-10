@@ -4,5 +4,4 @@ include::topics/debugging.adoc[]
 include::topics/documentation.adoc[]
 include::topics/portability.adoc[]
 include::topics/tools.adoc[]
-include::topics/layout.adoc[]
 

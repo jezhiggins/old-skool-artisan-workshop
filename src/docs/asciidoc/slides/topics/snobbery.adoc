@@ -1,6 +1,6 @@
 
 [data-transition="none"]
-=== Snobbery
+=== !
 
 [quote, Steve Yegge]
 ""
@@ -9,8 +9,8 @@ top [is] C++, which is [...] cooler than Java, which is cooler than Python, whic
 is cooler than JavaScript.
 ""
 
-[data-transition="slide"]
-=== Snobbery
+[data-transition="none"]
+=== !
 
 [quote, Steve Yegge]
 ""
@@ -18,8 +18,8 @@ Search is cooler than Ads, which is cooler than Apps, which is cooler than Tools
 which is cooler than Frontends.
 ""
 
-[data-transition="slide"]
-=== Snobbery
+[data-transition="none"]
+=== !
 
 [quote, Steve Yegge]
 ""
@@ -47,7 +47,7 @@ This is from "Who will steal Android from Google"
 --
 
 [data-transition="none"]
-=== Snobbery
+=== !
 
 [quote, David Barrett]
 ""

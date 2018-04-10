@@ -1,5 +1,5 @@
 [data-transition="none"]
-== Languages
+== !
 
 [quote, Edsger Dijkstra]
 ""
@@ -8,7 +8,7 @@ its teaching should, therefore, be regarded as a criminal offense.
 ""
 
 [data-transition="none"]
-=== Languages
+=== !
 
 ```
         LOAD    0
@@ -41,7 +41,7 @@ Spectrum BASIC as part of his course work, so I did all my CESIL course work usi
 --
 
 [data-transition="none"]
-=== Languages
+=== !
 [quote, Dijkstra again]
 ""
 Goto Considered Harmful
@@ -53,7 +53,7 @@ title but haven't read the letter.  Me!
 --
 
 [data-transition="none"]
-=== Languages
+=== !
 
 [quote, Frank Rubin]
 ""
@@ -72,7 +72,7 @@ editor at the time, and of course it plays directly to Wirth's ideas about progr
 --
 
 [data-transition="none"]
-=== Languages
+=== !
 
 [quote, Brian W. Kernighan]
 ""

@@ -1,5 +1,5 @@
 [data-transition="none"]
-== Debugging
+== !
 
 [quote, Brian W. Kernighan]
 ""
@@ -14,7 +14,7 @@ separate activity, it was part of the process of making working software.
 --
 
 [data-transition="none"]
-=== Debugging
+=== !
 
 [quote, Steve Maguire]
 ""
@@ -44,7 +44,17 @@ detection of errors, rather than development time prevention of errors.
 --
 
 [data-transition="none"]
-=== Debugging
+=== !
+
+++++
+<blockquote class="twitter-tweet" data-lang="en" width="325"><p lang="en" dir="ltr">For nearly
+25 years now, Jean-Luc has always been there when I&#39;ve needed him.
+<a href="http://t.co/qvd3ZC4fgT">pic.twitter.com/qvd3ZC4fgT</a></p>&mdash;
+Jez Higgins (@jezhiggins) <a href="https://twitter.com/jezhiggins/status/489736451861794816?ref_src=twsrc%5Etfw">July 17, 2014</a></blockquote>
+++++
+
+[data-transition="none"]
+=== !
 
 [quote, Brian W. Kernighan]
 ""
@@ -90,12 +100,3 @@ doesn't isn't as good :(
 
 --
 
-[data-transition="none"]
-=== Debugging
-
-++++
-<blockquote class="twitter-tweet" data-lang="en" width="325"><p lang="en" dir="ltr">For nearly
-25 years now, Jean-Luc has always been there when I&#39;ve needed him.
-<a href="http://t.co/qvd3ZC4fgT">pic.twitter.com/qvd3ZC4fgT</a></p>&mdash;
-Jez Higgins (@jezhiggins) <a href="https://twitter.com/jezhiggins/status/489736451861794816?ref_src=twsrc%5Etfw">July 17, 2014</a></blockquote>
-++++

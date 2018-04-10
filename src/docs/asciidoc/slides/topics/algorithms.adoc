@@ -1,5 +1,5 @@
 [data-transition="none"]
-== Algorithms
+== !
 
 [quote, Rob Pike]
 ""
@@ -22,7 +22,7 @@ Rule 5. Data dominates. If you've chosen the right data structures and organized
 --
 
 [data-transition="none"]
-=== Algorithms
+=== !
 
 [quote, Rob Pike]
 ""

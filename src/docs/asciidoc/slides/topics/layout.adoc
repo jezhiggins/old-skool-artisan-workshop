@@ -1,6 +1,5 @@
 [data-transition="none"]
-== Layout
-
+== !
 
 image::mined-out.gif[Mined Out]
 
@@ -10,12 +9,12 @@ http://www.playnvg.tk/#!minedout
 --
 
 [data-transition="none"]
-=== Layout
+=== !
 
 image::flowchart.png[]
 
 [data-transition="none"]
-=== Layout
+=== !
 
 image::haduken.jpg[The power of Lisp]
 ++++
@@ -23,11 +22,11 @@ image::haduken.jpg[The power of Lisp]
 ++++
 
 [data-transition="none"]
-=== Layout
+=== !
 
 image::webstorm.png[Project Tree]
 
 [data-transition="none"]
-=== Layout
+=== !
 
 image::rillet.png[Some JavaScript from a distance]

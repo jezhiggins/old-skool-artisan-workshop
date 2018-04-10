@@ -1,12 +1,12 @@
 [data-transition="none"]
-== Function length
+== !
 
 ++++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Them: &quot;Isn&#39;t a netbook screen a bit small?&quot;<br>Me: &quot;No. If the code doesn&#39;t fit on it, it&#39;s too complicated.&quot;</p>&mdash; Chris Oldwood (@chrisoldwood) <a href="https://twitter.com/chrisoldwood/status/579215003531763712?ref_src=twsrc%5Etfw">March 21, 2015</a></blockquote>
 ++++
 
 [data-transition="none"]
-=== Function length
+=== !
 ++++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Superfluous coding habits:<br><br>  if (...)<br>  {<br>      ...<br>  } // if<br><br>Don&#39;t see this habit too much, but it&#39;s worth commenting on such commenting.<br><br>If it appears to solve a problem, look again: it&#39;s addressing the effect rather than the cause.</p>&mdash; Kevlin Henney (@KevlinHenney) <a href="https://twitter.com/KevlinHenney/status/965636881756098560?ref_src=twsrc%5Etfw">February 19, 2018</a></blockquote>
 ++++

@@ -2,6 +2,8 @@
 
 image::big-o-notation.png[]
 
+include::topics/layout.adoc[]
+include::topics/function-length[]
 include::topics/types.adoc[]
 include::topics/algorithms.adoc[]
 include::topics/languages.adoc[]
