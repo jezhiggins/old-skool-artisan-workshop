@@ -1,5 +1,7 @@
 == THEORY
 
+image::big-o-notation.png[]
+
 include::topics/types.adoc[]
 include::topics/algorithms.adoc[]
 include::topics/languages.adoc[]
