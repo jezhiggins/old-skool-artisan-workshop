@@ -27,6 +27,7 @@ An expert
 
 --
 
+[data-transition="none"]
 === An Expert
 
     * transcends reliance on rules
@@ -57,6 +58,7 @@ That said, over the past 25 years (nearly 35 years if we reach all the way back 
 I have acquired the confidence to say ...
 --
 
+[data-transition="none"]
 === !
 
 [quote]

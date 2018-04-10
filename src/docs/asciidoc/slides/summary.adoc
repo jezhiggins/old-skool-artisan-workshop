@@ -1,3 +1,4 @@
+[data-transition="none"]
 ## To Summarise
 
 [quote, Jan L. A. van de Snepscheut]

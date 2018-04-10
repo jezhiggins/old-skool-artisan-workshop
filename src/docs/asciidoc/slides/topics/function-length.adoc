@@ -7,6 +7,7 @@
 
 [data-transition="none"]
 === !
+
 ++++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Superfluous coding habits:<br><br>  if (...)<br>  {<br>      ...<br>  } // if<br><br>Don&#39;t see this habit too much, but it&#39;s worth commenting on such commenting.<br><br>If it appears to solve a problem, look again: it&#39;s addressing the effect rather than the cause.</p>&mdash; Kevlin Henney (@KevlinHenney) <a href="https://twitter.com/KevlinHenney/status/965636881756098560?ref_src=twsrc%5Etfw">February 19, 2018</a></blockquote>
 ++++

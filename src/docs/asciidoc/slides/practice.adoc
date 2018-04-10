@@ -1,3 +1,4 @@
+[data-transition="none"]
 == PRACTICE
 
 include::topics/debugging.adoc[]

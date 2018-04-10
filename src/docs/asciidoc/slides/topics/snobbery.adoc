@@ -91,6 +91,7 @@ child or that you can't be stopped from doing it all the time is just so much ut
 nonsense.
 --
 
+[data-transition="none"]
 === !
 
 ++++

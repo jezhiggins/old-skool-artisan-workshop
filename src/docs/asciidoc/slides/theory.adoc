@@ -1,3 +1,4 @@
+[data-transition="none"]
 == THEORY
 
 image::big-o-notation.png[]

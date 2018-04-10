@@ -1,3 +1,4 @@
+[data-transition="none"]
 == 1984
 
 image::montego.jpeg[]
@@ -18,6 +19,7 @@ The coursework was given to me by Mr Gladwin saying things like "write an educat
 and the one I remember most distinctly "work out the smallest number of notes and coins needed for an amount of money"
 --
 
+[data-transition="none"]
 == Coin Change Kata
 
 [quote]
